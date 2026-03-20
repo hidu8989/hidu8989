@@ -58,7 +58,7 @@
 ---
 
 ### 📫 INITIALIZE_CONTACT
-* **Telegram:** [@hiduu_uu](https://t.me/hiduu_uu)
+* **Telegram:** [@proqramer](https://t.me/proqramer)
 * **Security Bot:** [@scam_checkerbot](https://t.me/scam_checkerbot)
 * **Location:** Addis Ababa, Ethiopia 🇪🇹
 
