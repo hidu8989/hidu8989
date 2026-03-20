@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🛡️ Hidase Berhe | Security Researcher & Web Architect
+![Banner](banner.png)
+> **Bridging the gap between high-performance Web Development and Cybersecurity.** 
+> Focused on protecting the Ethiopian digital ecosystem from emerging threats.
 
-<!--
-**hidu8989/hidu8989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Featured Project: @scam_checkerbot
+A Telegram-based security middleware designed to detect and neutralize phishing attacks in real-time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Intelligence:** Multi-layered API orchestration (VirusTotal & Google Safe Browsing).
+*   **Forensics:** Headless browser detonation for live, safe site screenshots.
+*   **Target:** Protecting users from the recent surge in Telegram-based social engineering.
+
+---
+
+### 💻 Technical Stack
+
+| Layer | Tools & Languages |
+| :--- | :--- |
+| **Development** | HTML5, CSS3 (Tailwind), JavaScript, Python |
+| **Cyber Ops** | Kali Linux, Threat Intelligence, API Forensics |
+
+
+---
+
+### 🏆 Achievements
+*   **Gedam Se’tawiyan ICT Hackathon (2023):** Developed a prototype for Amharic Speech-to-Text.
+*   **Security Research:** Currently analyzing phishing vectors targeting Telegram users in Ethiopia.
+
+---
+
+### 📊 GitHub Activity
+![Hidase's Stats](https://github-readme-stats.vercel.app/api?username=hidu8989&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+* **Telegram:** [@proqramer](https://t.me/proqramer)
+* **Instagram** [@__hidu_]
