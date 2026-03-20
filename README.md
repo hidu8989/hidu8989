@@ -1,5 +1,5 @@
 # 🛡️ Hidase Berhe | Security Researcher & Web Architect
-![Banner](Banner.png)
+![Banner](banner.png)
 > **Bridging the gap between high-performance Web Development and Cybersecurity.** 
 > Focused on protecting the Ethiopian digital ecosystem from emerging threats.
 
